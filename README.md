@@ -1,5 +1,16 @@
 # avm-genai-hackathon-usecase
-You are here early. Visit us Tue March 5th at 11:00 pm to get access to the use cases.
+The initial descriptions of all use cases are posted.
+Please note they are subject to minor modifications / enhancements.
+
+# Use Case 2 : AI-Powered Chatbots
+# Use Case 3 : Email Campaign Automation System
+# Use Case 5 : Code Assistant Bot
+# Use Case 6 : Procurement Status Tracking System
+
+
+
+
+
 
 
 ## An ode to the coming Hackathon.
