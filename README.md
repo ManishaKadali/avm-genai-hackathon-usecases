@@ -1,5 +1,9 @@
 # avm-genai-hackathon-usecase
 The initial descriptions of all use cases are posted.
+<li>
+We will post the API's Wednesday at 11:00 PM for those keen and curious.
+We will post Sample Presentation Thursday at 11:00 PM
+</li>
 
 Please note the descriptions are directionally correct and are subject to minor modifications / enhancements.
 
