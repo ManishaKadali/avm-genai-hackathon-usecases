@@ -13,15 +13,18 @@ Your application should accept blocks of code and help a developer with the foll
 1. Code Comments
 2. Code Translation (One language to Another)
 
+Task 1: Which LLM works better for which coding task. Show proof. <br />
+Task 2 : What other functions could you add to the LLM to help you code.
+
 
 
 **Functionality:**
 API Integration: Integrate with the provided LLM API to send requests and receive responses. 
-Output Results: The application should output long form content but that is highly tailored and accurate because you have used multishot prompting and COT
+Output Results: The application should output the desired code requests.
 
 **Evaluation Criteria:**
 Functionality: Does the application accurately generate content with the LLM API as expected?
-Innovation: How creatively does the solution use the LLM's responses to add value beyond the basic status information?
+Innovation: Selecting an LLM and using it for the code assistance tasks.
 Code Quality: Is the code well-organized, documented, and easy to read?
 
 **Submission Requirements:**
