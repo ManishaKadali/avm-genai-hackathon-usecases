@@ -9,6 +9,11 @@ The technologies used will be leveraging a LLM and employing RAG to to augment t
 
 A future evolution would be directly integratign with the Ariba system via API's instead of uploading a CSV
 
+Hint #1 : Additional fields could add to the richness of the response or confuse the LLM
+
+Task #1 : Upload the CSV file and attach to the request <br />
+Task #2 : Get status, More points for rich instructions and rich responses
+
 **Resources:**
 Documentation for the LLM API.
 Sample CSV files for testing your application.
