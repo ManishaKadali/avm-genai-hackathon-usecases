@@ -1,17 +1,19 @@
 # Use Case 2 : AI-Powered Chatbots
 
 **Overview:**
-The objective of this challenge is to create an interactive chat that calls a model and allows for a conversation to take places
+The objective of this challenge is to create an interactive chat that calls a model and allows for a conversation to take place. 
 
-Participants will develop an application that takes input from the keyboard and call a Large Language Model (LLM) via the AVM API.
+Hint #1 : A conversation requires conversational history.
 
-We would like the participants to call two models simultaneosly to see how the response are differnet.
+Task 1 : Participants will develop an application that takes input from the keyboard and call a Large Language Model (LLM) via the AVM API.
+Task 2 : Participants must call two models simultaneosly to see how the responses are different.
+
 
 A future evolution would be creating and integrating these AI powered conversations for answering and performing simple tasks.
 
 **Resources:**
 Documentation for the LLM API.
-Source code of the initial application
+Source code of the initial application.
 
 **Input:**
 User typed input to the conversational LLM.
