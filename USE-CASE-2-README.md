@@ -6,6 +6,7 @@ The objective of this challenge is to create an interactive chat that calls a mo
 Hint #1 : A conversation requires conversational history.
 
 Task 1 : Participants will develop an application that takes input from the keyboard and call a Large Language Model (LLM) via the AVM API.
+<br />
 Task 2 : Participants must call two models simultaneosly to see how the responses are different.
 
 
