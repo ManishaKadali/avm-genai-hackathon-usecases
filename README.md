@@ -1,6 +1,7 @@
 # avm-genai-hackathon-usecase
 The initial descriptions of all use cases are posted.
-Please note they are subject to minor modifications / enhancements.
+
+Please note the descriptions are directionally correct and are subject to minor modifications / enhancements.
 
 ##### Use Case 2 : AI-Powered Chatbots
 ##### Use Case 3 : Email Campaign Automation System
