@@ -2,10 +2,10 @@
 The initial descriptions of all use cases are posted.
 Please note they are subject to minor modifications / enhancements.
 
-# Use Case 2 : AI-Powered Chatbots
-# Use Case 3 : Email Campaign Automation System
-# Use Case 5 : Code Assistant Bot
-# Use Case 6 : Procurement Status Tracking System
+#### Use Case 2 : AI-Powered Chatbots
+### Use Case 3 : Email Campaign Automation System
+### Use Case 5 : Code Assistant Bot
+### Use Case 6 : Procurement Status Tracking System
 
 
 
