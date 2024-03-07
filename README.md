@@ -1,5 +1,9 @@
 # avm-genai-hackathon
 
+#EARLY BIRDS#
+HACKATHON : https://github.com/addvaluemachine/avm-genai-starter :)
+
+
 # Install Prerequisites
 ### Have node.js installed, if you do not have it installed visit the  [official Node.js page](https://nodejs.org/en/download/) and download it. 
 We recommend downloading the version [v20.4.0](https://nodejs.org/dist/v20.4.0/)
