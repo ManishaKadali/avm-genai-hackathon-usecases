@@ -1,8 +1,4 @@
-# avm-genai-hackathon-usecase
-The initial descriptions of all use cases are posted.
-
-PREP : 
-Set up your ENV
+# avm-genai-hackathon
 
 # Install Prerequisites
 ### Have node.js installed, if you do not have it installed visit the  [official Node.js page](https://nodejs.org/en/download/) and download it. 
