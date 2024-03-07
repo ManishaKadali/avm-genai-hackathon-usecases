@@ -2,6 +2,9 @@
 `POST /avm-completion`
 `POST /avm-completion-secure`
 
+AVM Completion Secure Endpoint. The behavior of the secure end point is slightly different than the regular endpoint.
+Hint : Try embedding an email address in the text
+
 ## Summary
 Add the '-secure' part to get a secure completion for a given input. Otherwise get a simple completion.
 
