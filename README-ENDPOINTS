@@ -14,6 +14,8 @@ Processes the provided input and returns a completion. This endpoint is protecte
 ## Headers
 - `Content-Type: application/json`
 - `API-Key`: A unique key required to authorize the request.
+- `Team-name`: Team identifier, to edit this go to ```ApiConfig.js``` and override the existing mocked string
+
 
 ## Request Body Parameters
 The request body must contain the following fields:
